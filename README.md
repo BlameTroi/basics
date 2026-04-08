@@ -1,5 +1,7 @@
 # Tiny Pascal Basic
 
+> Archiving as I move to another forge.
+
 ## Originally by S. A. Moore ( samiam at moorecad dot com )
 
 Original source copied from http://www.moorecad.com/standardpascal/basics.pas
